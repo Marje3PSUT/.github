@@ -55,4 +55,4 @@ body:
     required: false
 - type: markdown
   attributes:
-    value: Kindly nclude the appropriate labels.
+    value: \> Kindly include the appropriate labels.
